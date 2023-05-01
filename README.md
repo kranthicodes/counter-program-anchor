@@ -1,9 +1,9 @@
-# Hello World
+# Counter program
 
 This Solana program is a simple counter program that initializes, increments or decrements the count field in counter account.
 ## Description
 
-This Solana program is a simple contract written in Rust, a programming language used for developing smart contracts on the Solana blockchain. The contract has a three functions. 
+This Solana program is a simple contract written in Rust, a programming language used for developing smart contracts on the Solana blockchain. This program was created using Anchor framework. The contract has a three functions. 
 
 **Create**
 
